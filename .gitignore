@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/scoulacli/.gradle/
+/scoulacli/build/
+/scoulacli/build/classes/java/main/
