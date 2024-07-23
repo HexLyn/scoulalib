@@ -10,10 +10,6 @@ public class Input {
         return Integer.parseInt(scanner.nextLine());
     }
 
-//    public static String getLine(String title) {
-//        System.out.println(title);
-//        return scanner.nextLine();
-//    }
     public static String getLine(String title, String defaultValue) {
         System.out.printf("%s(%s): ", title, defaultValue);
         String answer = scanner.nextLine();
