@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation project(':Scoulacli')
+    implementation project(':scoulacli')
     implementation 'org.springframework:spring-context:6.1.11'
 
 
